@@ -75,4 +75,4 @@ python analysis/02_tradeoff_model.py
 
 ## Tác giả
 
-**Đoàn Yến** · [Email](mailto:EMAIL) · [LinkedIn](LINK_LINKEDIN)
+**Đoàn Yến** 
