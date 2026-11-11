@@ -2,7 +2,7 @@
 
 Dự án phân tích dữ liệu game mobile trên bộ dữ liệu Firebase công khai của game giải đố **Flood-It** (Google BigQuery). Mục tiêu là tìm những level đang khó quá mức, đánh giá việc giảm độ khó có mang lại lợi ích hay không, và đề xuất các thử nghiệm A/B để kiểm chứng.
 
-- 📊 **Dashboard:** [Looker Studio](LINK_LOOKER) · [bản HTML](dashboard/index.html)
+- 📊 **Dashboard:** [bản HTML](dashboard/index.html)
 - 📄 **Báo cáo đầy đủ:** [Bao_cao_FloodIt_do_kho_level.pdf](report/Bao_cao_FloodIt_do_kho_level.pdf)
 
 ![Tổng quan](images/dashboard_p1.png)
